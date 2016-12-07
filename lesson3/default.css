@@ -1,4 +1,8 @@
 /* #3 */
+div {
+	width: 100px;
+	height: 50px;
+}
 
 #box1{
 	background: rgb(255, 100, 100);
