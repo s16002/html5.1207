@@ -1,0 +1,6 @@
+/* #5
+ a[href^="http"] { color : orange}
+ a[href$=".com"] { color : orange}
+ */
+ a[href*="html"] { color : orange}
+
